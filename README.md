@@ -1,5 +1,5 @@
 # Taxid_api
- A basic exercise regarding an api that found some data and related metadeta in a mongo database using some end points
+ A basic exercise based on an api that found some data and related metadeta in a mongo database, using some end points
 
 ## 1. Run docker compose
 
