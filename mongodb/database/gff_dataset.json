@@ -1,0 +1,8 @@
+[
+{"taxid": "35525","name": "Daphnia magna","files": [{ "name": "Daphnia_magna.gff"},{ "type": "gff3"},{ "file": "example of gff file"}]},
+{"taxid": "113505","name": "Chironomus tepperi","files": [{ "name": "Chironomus_tepperi.gff" },{ "type": "gff3" },{ "file": "example of gff file" } ]},
+{"taxid": "29994","name": "Archaeognatha","files": [{ "name": "Archaeognatha.gff" },{ "type": "gff3" },{ "file": "example of gff file" }]},
+{"taxid": "113506","name": "Chironomus tuvanicus",  "files": [{ "name": "Chironomus_tuvanicus.gff" },{ "type": "gff3" },{ "file": "example of gff file" }]},
+{"taxid": "113413","name": "Auxarthron pseudoreticulatum","files": [{ "name": "Auxarthron_pseudoreticulatum.gff" },{ "type": "gff3" },{ "file": "example of gff file" }]},
+{"taxid": "11232","name": "Canine morbillivirus","files": [{ "name": "Canine_morbillivirus.gff" },{ "type": "gff3" },{ "file": "example of gff file" }]}
+]
