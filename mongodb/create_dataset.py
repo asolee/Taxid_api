@@ -5,14 +5,13 @@ from pymongo import MongoClient
 # Making Connection
 myclient = MongoClient("mongodb://localhost:27017/") 
    
-# database 
+# create database 
 db = myclient["sample_db"]
    
-# Created or Switched to collection 
-# names: GeeksForGeeks
+# create collection 
 Collection = db["sample_collection"]
   
-# Loading or Opening the json file
+# open the json file
 with open('database/gff_dataset.json') as file:
     file_data = json.load(file)
       
